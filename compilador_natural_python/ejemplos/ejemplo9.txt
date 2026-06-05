@@ -1,0 +1,9 @@
+Programa Inicio.
+crear una variable entera llamada edad con valor 16.
+crear una variable texto llamada permiso con valor "si".
+si edad es mayor o igual que 18 entonces
+mostrar "Puede ingresar por edad".
+sino
+mostrar "No cumple la edad".
+fin si.
+fin.

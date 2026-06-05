@@ -1,0 +1,8 @@
+Programa Inicio.
+crear una variable decimal llamada nota con valor 3.2.
+si nota es mayor o igual que 3 entonces
+mostrar "Aprobado".
+sino
+mostrar "Reprobado".
+fin si.
+fin.

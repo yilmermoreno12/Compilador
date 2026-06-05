@@ -1,0 +1,6 @@
+Programa Inicio.
+crear una variable entera llamada edad con valor 20.
+si edad es mayor o igual que 18 entonces
+mostrar "Puede ingresar".
+fin si.
+fin.

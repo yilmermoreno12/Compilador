@@ -1,0 +1,5 @@
+Programa Inicio.
+repetir 3 veces hacer
+mostrar "Hola desde el ciclo repetir".
+fin repetir.
+fin.

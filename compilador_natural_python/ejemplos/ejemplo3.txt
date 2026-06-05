@@ -1,0 +1,6 @@
+Programa Inicio.
+crear una variable entera llamada a con valor 10.
+crear una variable entera llamada b con valor 5.
+crear una variable entera llamada resultado con valor a mas b.
+mostrar resultado.
+fin.

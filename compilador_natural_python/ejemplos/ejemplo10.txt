@@ -1,0 +1,7 @@
+Programa Inicio.
+crear una variable entera llamada total con valor 0.
+para numero desde 1 hasta 5 hacer
+total = total mas numero.
+fin para.
+mostrar total.
+fin.

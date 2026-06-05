@@ -1,0 +1,4 @@
+Programa Inicio.
+crear una variable texto llamada nombre con valor "Luis".
+mostrar nombre.
+fin.

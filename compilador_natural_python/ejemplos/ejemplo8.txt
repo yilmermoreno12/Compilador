@@ -1,0 +1,5 @@
+Programa Inicio.
+para i desde 1 hasta 5 hacer
+mostrar i.
+fin para.
+fin.

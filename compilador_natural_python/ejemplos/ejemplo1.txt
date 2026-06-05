@@ -1,0 +1,4 @@
+Programa Inicio.
+crear una variable entera llamada edad con valor 20.
+mostrar edad.
+fin.

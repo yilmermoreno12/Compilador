@@ -1,0 +1,7 @@
+Programa Inicio.
+crear una variable entera llamada contador con valor 1.
+mientras contador es menor o igual que 5 hacer
+mostrar contador.
+contador = contador mas 1.
+fin mientras.
+fin.
